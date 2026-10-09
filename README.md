@@ -127,5 +127,6 @@ Suggestions and pull requests are welcome. For significant changes, please open 
 
 ## Author
 
-Prapto Charles Costa
-Department of Information & Communication Engineering, Daffodil International University
+Prapto Charles Costa  
+
+  Department of Information & Communication Engineering, Daffodil International University
